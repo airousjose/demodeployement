@@ -1,0 +1,1 @@
+ng build --prod --base-href "https://airousjose.github.io/sample/"
